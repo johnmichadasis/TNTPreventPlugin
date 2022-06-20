@@ -1,0 +1,6 @@
+name: Tntprevent
+version: '${project.version}'
+main: me.michh.tntprevent.Tntprevent
+api-version: 1.19
+authors: [ Michh ]
+description: Plugin that prevents tnt placement
